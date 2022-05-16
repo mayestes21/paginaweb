@@ -1,0 +1,261 @@
+* {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.logo {
+    color: #33adff;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+.menu {
+    margin: 0;
+    padding-top: 30px;
+    display: flex;
+    list-style: none;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+}
+
+.main-image {
+    width:500px;
+    height:600px;
+}
+
+.nav-list {
+    padding: 0 15px;
+}
+
+.buttonSign {
+    color: white;
+    background-color: #33adff;
+    border: none;
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    border-radius: 250px;
+
+}
+.menu li {
+    display: inline-block;
+    margin: auto;
+
+}
+.first-div {
+    margin: 100px;
+}
+
+.action-bar {
+    width: 75%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border:1px solid;
+    margin: auto;
+    box-shadow: 4px 5px 13px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 4px 5px 13px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 5px 13px -2px rgba(0,0,0,0.75);
+    margin-top: -50px;
+    background-color: white;
+}
+
+.button-what {
+    color: #33adff;
+    background-color: white;
+    border-color: #33adff;
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    border-radius: 250px;
+   
+}
+
+.what-icono {
+    border-style: solid;
+    border-color: #33adff;
+    padding: 15px;
+    border-radius: 20px;
+
+    
+}
+
+.border {
+    border-radius: 8%;
+    color: #33adff;
+}
+
+.primer-seccion {
+    display: flex;
+    justify-content: space-around;
+    background-color: #e6eeff;
+    z-index: -5;
+}
+
+.shadow {
+    box-shadow: 0 0 10px;
+    color: #ccddff;
+    border: none;
+    
+}
+
+
+
+.section-dos {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-left: 180px;
+    margin-right: 180px;
+    
+}
+.see-all {
+   
+    border-radius: 250px;
+    padding: 8px 30px 8px 30px;
+    border-color: #33adff;
+    
+}
+
+.section-tres {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.ultima-seccion {
+    background-color: #e6eeff;
+}
+
+.property-spec {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 15px;
+    border-radius: 15%;
+ 
+
+} 
+.property-cientocuarenta {
+    width: 350px;
+    text-align: center;
+    box-shadow:  5px 5px 10px;
+    border: none;
+    border-radius: 0% 0% 10% 10%;
+    
+    padding-top: 12px;
+
+      }
+
+      .properties-white {
+          background-color: white;
+          width: 250px;
+          padding: 10px;
+          border-radius: 10% 0% 0% 10%;
+
+      }
+
+      .properties-face {
+          display: flex;
+          justify-content: space-around;
+      }
+
+      .properties-image {
+        border-radius: 0% 10% 10% 0%;
+
+      }
+
+    
+
+.properties {
+    display: flex;
+    justify-content: center;
+}
+.properties-parrafo {
+    text-align: center;
+    padding-top: 50px;
+
+}
+.duplex-apartment {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image-property  {
+    border-radius: 10% 10% 0% 0%;
+}
+
+.properties-kingbed {
+    display: flex;
+    justify-content: space-between;
+}
+.properties-uno {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.properties-dos {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+
+.see-all {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-top: 20px;
+    color: #33adff;
+}
+
+
+.testimonials {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: small;
+}
+.testimonials-border {
+    border-radius: 10% 10% 10% 10%;
+    color: #33adff;
+    padding: 15px;
+    margin-bottom: 20px;
+
+}
+.div-testimonials {
+    text-align: center;
+}
+.readmore-flecha-blog {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.whylive-blogs {
+    display: flex;
+    justify-content: center;
+    color: #33adff;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    font-size: 10px;
+}
+
+.footer-the-home {
+    padding-bottom: none;
+    padding-top: none;
+    margin: auto;
+
+}
